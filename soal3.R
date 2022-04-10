@@ -34,11 +34,10 @@ print("Poin a dan b memiliki perbedaan pada jumlah dataset yang dimasukkan dalam
 # d. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
 
 n = 6
-p = 4.5
 # Rata-rata
-rata2 = l
+rata2 = n
 #Varian
-varian = l
+varian = n
 cat("Rata-rata: ", rata2, "\nVarian: ", varian)
 
 # =====
